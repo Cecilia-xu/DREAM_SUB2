@@ -9,6 +9,9 @@ To be more specific, this is a classification problem. Participants are required
 ## 02. Dataset
 The training set includes microarray data from 38 women (including Controls, sPTD, or PPROM) as  well as data from 161 patients  (including Controls, sPTD, or PPROM) The training set has therefore data for 2 or more samples from 196 women (435 samples total) while the test set is composed of data from 87 women (304 samples total).
 
+- Raw Data
+- Preprocessed expression data
+
 ## 03. Metric
 - Area under the ROC curve (AUC) statistic 
 - Area under the precision recall curve (AUPR) 
