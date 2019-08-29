@@ -1,6 +1,6 @@
 # Part 1: understand the problem
 ## 00. Background
-
+![avatar](https://github.com/Cecilia-xu/DREAM_SUB2/blob/master/background.png)
 ## 01. Type of the problem
 The goal of sub-challenge 2 (SC2) of the DREAM Preterm Birth Prediction Challenge is to determine how accurately the maternal whole blood transcriptome from two or more samples collected during pregnancy (17-36 weeks) in asymptomatic women, can predict preterm birth.
  
